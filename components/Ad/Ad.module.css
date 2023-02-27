@@ -8,7 +8,7 @@
 }
 
 .popup__area {
-    margin: 0;
+    margin: 0px;
     background: yellow;
     position: absolute;
     height: 20rem;
